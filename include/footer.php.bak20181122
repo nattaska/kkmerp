@@ -1,0 +1,29 @@
+<!-- Include CSS -->
+<!-- <link href="./css/bootstrap.min.css" rel="stylesheet">
+<link href="./css/style.css" rel="stylesheet"> -->
+<!-- Include Google font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,600"> 
+<!-- Include JavaScripts -->
+<!-- <script src="./js/jquery.min.js" async></script>
+<script src="./js/bootstrap.min.js" async></script> -->
+<script src="js/app.js" async></script>
+	
+
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+	<script src="vendor/select2/select2.min.js"></script>
+
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+
+	<script src="js/main.js"></script>
+
+</body>
+</html>
